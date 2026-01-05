@@ -1,16 +1,9 @@
-# indoornavigate
+# Indoor Navigation For Visually Impaired Users
 
-A new Flutter project.
+## Aimed to assists visually impaired user to navigate through ICT Faculty in Universiti Tunku Abdul Rahman
 
-## Getting Started
+This application utilized QR Based navigation to help provide navigation for users. 
 
-This project is a starting point for a Flutter application.
+The application is coded based on Flutter Framework using Dart Language.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The application UI is designed to be visually impaired friendly.
