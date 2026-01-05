@@ -1,6 +1,6 @@
 # UTAR Navigate 📍
 
-**UTAR Navigate** is an accessible indoor navigation application built with Flutter. It helps users navigate complex indoor environments (specifically UTAR campus rooms N001–N012) using QR code localization, sensor fusion for orientation, and voice-guided turn-by-turn directions.
+**UTAR Navigate** is an accessible indoor navigation application built with Flutter. It helps Visually Impaired users navigate complex indoor environments (specifically UTAR campus rooms N001–N012) using QR code localization, sensor fusion for orientation, and voice-guided turn-by-turn directions.
 
 The app is designed with high accessibility in mind, featuring high-contrast UI, large text, and full Text-to-Speech (TTS) and Speech-to-Text (STT) integration.
 
